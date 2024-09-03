@@ -2,7 +2,7 @@
 
 Bu proje basitçe veriyi anlama, görselleştirme üzerine kuruludur. 
 
-Veri kaggle'dan alınmadır. 
+Veri kaynağı Kaggle'dır.
 
 Verinin istatistiksel anlamda incelemesi daha sonraki düzenlemelerle yapılacaktır.
 
