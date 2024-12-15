@@ -1,7 +1,8 @@
 # Data-Developer-Salary
 
 Bu proje basitçe veriyi anlama, görselleştirme üzerine kuruludur. Veri Biliminde Maaş Dinamikleri isimli dosya verinin Tableau ile 
-görselleştirilmiş versiyonunu içermektedir
+görselleştirilmiş versiyonunu içermektedir. Tableau üzerinde filtreleri kullanarak incelemek isterseniz :
+https://public.tableau.com/shared/YHGZ3QPW3?:display_count=n&:origin=viz_share_link 
 
 Veri kaynağı Kaggle'dır.
 
