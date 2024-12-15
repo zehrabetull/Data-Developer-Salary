@@ -1,6 +1,7 @@
 # Data-Developer-Salary
 
-Bu proje basitçe veriyi anlama, görselleştirme üzerine kuruludur. 
+Bu proje basitçe veriyi anlama, görselleştirme üzerine kuruludur. Veri Biliminde Maaş Dinamikleri isimli dosya verinin Tableau ile 
+görselleştirilmiş versiyonunu içermektedir
 
 Veri kaynağı Kaggle'dır.
 
